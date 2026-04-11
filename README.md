@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=39D353&height=120&section=header&text=Sanyam%20Asthana&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=NLP%20%7C%20Systems%20%7C%20Security&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=9F62F7&text=Sanyam%20Asthana&fontColor=FFFFFF&animation=scaleIn&desc=NLP%20|%20Systems%20|%20Security&fontSize=40&fontAlignY=37&section=header)
 
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&color=39D353&width=435&lines=Hi%2C+I'm+Sanyam;NLP+%7C+Systems+%7C+Security;)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=500&color=9F62F7&background=FFFFFF00&width=435&lines=A+Systems+Programmer;A+cybersecurity+enthusiast;An+AI%2FML+enjoyer;A+linguist;(also+a+Minecrafter))](https://git.io/typing-svg)
 
 Hello! Welcome to my personal (but public?) space! I am a developer who likes all things NLP, systems programming and cybersecurity.
 
