@@ -6,6 +6,10 @@
 
 Hello! Welcome to my personal (but public?) space! I am a developer who likes all things NLP, systems programming and cybersecurity.
 
+This place is all about the things I love i.e. the projects I make and contribute to <3
+
+## Stats 📊
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanyam-Asthana/sanyam-asthana/output/dist/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanyam-Asthana/sanyam-asthana/output/dist/snake.svg">
@@ -18,6 +22,19 @@ Hello! Welcome to my personal (but public?) space! I am a developer who likes al
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sanyam-Asthana&theme=nightowl)](https://git.io/streak-stats)
 
 <br>
+
+## What I am up to 🤔
+
+- Contributor to the 3rd Edition of *Speech and Language Processing* by Jurafsky and Martin
+- Research Assistant at Software Engineering Research Center (SERC) @ IIIT-H
+- Working on security tooling and low-level systems
+
+<details>
+  <summary>What do you call highly polymerised ether?</summary>
+  
+  Ethernet.
+  
+</details>
 
 <!--
 **Sanyam-Asthana/sanyam-asthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
