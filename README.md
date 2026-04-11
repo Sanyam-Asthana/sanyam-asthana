@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hello! Welcome to my personal (but public?) space! I am a developer who likes all things NLP, systems programming and cybersecurity.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanyam-Asthana/sanyam-asthana/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanyam-Asthana/sanyam-asthana/output/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sanyam-asthana/sanyam-asthana/output/snake.svg">
+</picture>
+
 <!--
 **Sanyam-Asthana/sanyam-asthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
