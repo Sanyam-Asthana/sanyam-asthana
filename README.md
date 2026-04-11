@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=500&color=39D353&width=435&lines=Hi%2C+I'm+Sanyam;NLP+%7C+Systems+%7C+Security;)
+
 Hello! Welcome to my personal (but public?) space! I am a developer who likes all things NLP, systems programming and cybersecurity.
 
 <picture>
