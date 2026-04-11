@@ -13,6 +13,11 @@ Hello! Welcome to my personal (but public?) space! I am a developer who likes al
 </picture>
 
 <br>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sanyam-Asthana&theme=nightowl)](https://git.io/streak-stats)
+
+<br>
 
 <!--
 **Sanyam-Asthana/sanyam-asthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
