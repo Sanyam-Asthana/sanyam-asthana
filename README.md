@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=9F62F7&text=Sanyam%20Asthana&fontColor=FFFFFF&animation=scaleIn&desc=NLP%20|%20Systems%20|%20Security&fontSize=40&fontAlignY=37&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=9F62F7&text=Sanyam%20Asthana&fontColor=FFFFFF&fontSize=40&fontAlignY=37&section=header)
 
 ## Hi there 👋
 
